@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building custom Android kernels for the Samsung .<br><br>👯 I’m looking to collaborate on KernelSU-Next & ReSukiSU & SUSFS integration patches.<br><br>🤝 I’m looking for help with advanced Linux shell scripting and kernel optimization.<br><br>🌱 I’m currently learning how to maximize AI tools for command-line problem solving.<br><br>💬 Ask me about Arch Linux setups, dual-booting Windows 11, and Android modding.<br><br>⚡ Fun fact I build Android mods using terminal commands, AI, and pure determination!
+🔭 I’m currently working on building custom Android kernels for the Samsung .<br><br>👯 I’m looking to collaborate on KernelSU-Next & ReSukiSU & SUSFS integration patches.<br><br>🌱 I’m currently learning how to maximize AI tools for command-line problem solving.<br><br>💬 Ask me about Arch Linux setups, dual-booting Windows 11, and Android modding.<br><br>⚡ Fun fact I build Android mods using terminal commands, AI, and pure determination!
 
 
 ## 🌐 Socials:
